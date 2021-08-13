@@ -1,0 +1,22 @@
+
+// import getNotes from './notes.js';
+
+// import validator from 'validator'  //Used "import" after adding "type": "module" in package.json file
+// const validator = require('validator')
+
+// console.log(getNotes());
+
+// console.log(validator.isEmail('abc.com'))
+// console.log(validator.isURL('http://google.com'))
+
+// console.log(chalk.black.bgBlue('Success!'))
+
+// console.log(process.argv[2])
+
+// console.log(process.argv)
+
+// if(command === 'add') {
+//     console.log('Adding Note...')
+// } else if(command === 'remove') {
+//     console.log('Removing Note...')
+// }
